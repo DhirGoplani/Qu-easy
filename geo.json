@@ -1,0 +1,760 @@
+[
+{
+"id":1,
+"question":"What is the capital of India?",
+"options":["Mumbai","New Delhi","Kolkata","Chennai"],
+"answer":"New Delhi"
+},
+{
+"id":2,
+"question":"What is the capital of the USA?",
+"options":["New York","Los Angeles","Washington, D.C.","Chicago"],
+"answer":"Washington, D.C."
+},
+{
+"id":3,
+"question":"What is the capital of China?",
+"options":["Shanghai","Beijing","Guangzhou","Shenzhen"],
+"answer":"Beijing"
+},
+{
+"id":4,
+"question":"What is the capital of Japan?",
+"options":["Osaka","Kyoto","Tokyo","Nagoya"],
+"answer":"Tokyo"
+},
+{
+"id":5,
+"question":"Which ocean is the largest in the world?",
+"options":["Atlantic Ocean","Indian Ocean","Arctic Ocean","Pacific Ocean"],
+"answer":"Pacific Ocean"
+},
+{
+"id":6,
+"question":"Which ocean is named after a country?",
+"options":["Atlantic Ocean","Indian Ocean","Pacific Ocean","Southern Ocean"],
+"answer":"Indian Ocean"
+},
+{
+"id":7,
+"question":"Which is the largest desert in the world (including polar)?",
+"options":["Sahara","Gobi","Antarctic Desert","Arctic Desert"],
+"answer":"Antarctic Desert"
+},
+{
+"id":8,
+"question":"Which is the largest warm (hot) desert in the world?",
+"options":["Kalahari","Sahara","Arabian","Thar"],
+"answer":"Sahara"
+},
+{
+"id":9,
+"question":"As of 2026, which is the most populous country in the world?",
+"options":["China","India","USA","Indonesia"],
+"answer":"India"
+},
+{
+"id":10,
+"question":"Which is the largest river by water volume?",
+"options":["Nile","Yangtze","Mississippi","Amazon"],
+"answer":"Amazon"
+},
+{
+"id":11,
+"question":"Which is the longest river in the world?",
+"options":["Amazon","Nile","Yellow River","Congo"],
+"answer":"Nile"
+},
+{
+"id":12,
+"question":"Where is the Black Sea located?",
+"options":["Between Europe and Asia","North of Russia","South of Australia","West of USA"],
+"answer":"Between Europe and Asia"
+},
+{
+"id":13,
+"question":"Which is the deepest known point on Earth?",
+"options":["Tonga Trench","Java Trench","Challenger Deep","Puerto Rico Trench"],
+"answer":"Challenger Deep"
+},
+{
+"id":14,
+"question":"Which country has the world's largest economy by nominal GDP?",
+"options":["China","Germany","Japan","USA"],
+"answer":"USA"
+},
+{
+"id":15,
+"question":"Which country usually has the highest GDP per capita?",
+"options":["Luxembourg","India","Brazil","Russia"],
+"answer":"Luxembourg"
+},
+{
+"id":16,
+"question":"Which is the smallest country in the world?",
+"options":["Monaco","Vatican City","Nauru","San Marino"],
+"answer":"Vatican City"
+},
+{
+"id":17,
+"question":"Which mountain is the highest above sea level?",
+"options":["K2","Kangchenjunga","Mount Everest","Lhotse"],
+"answer":"Mount Everest"
+},
+{
+"id":18,
+"question":"In which country is the Great Barrier Reef located?",
+"options":["Fiji","Australia","New Zealand","Indonesia"],
+"answer":"Australia"
+},
+{
+"id":19,
+"question":"Which country has the most islands in the world?",
+"options":["Indonesia","Sweden","Philippines","Canada"],
+"answer":"Sweden"
+},
+{
+"id":20,
+"question":"Which is the largest continent by land area?",
+"options":["Africa","North America","Asia","Antarctica"],
+"answer":"Asia"
+},
+
+{
+"id":21,
+"question":"What is the capital of France?",
+"options":["Lyon","Marseille","Paris","Nice"],
+"answer":"Paris"
+},
+{
+"id":22,
+"question":"Mount Kilimanjaro is the highest mountain in which continent?",
+"options":["Asia","Africa","Europe","South America"],
+"answer":"Africa"
+},
+{
+"id":23,
+"question":"The city of Istanbul is located in which two continents?",
+"options":["Europe and Africa","Asia and Europe","Asia and Africa","Europe and North America"],
+"answer":"Asia and Europe"
+},
+{
+"id":24,
+"question":"Which country is known as the Land of the Rising Sun?",
+"options":["China","South Korea","Japan","Thailand"],
+"answer":"Japan"
+},
+{
+"id":25,
+"question":"What is the largest country in the world by area?",
+"options":["Canada","USA","Russia","China"],
+"answer":"Russia"
+},
+{
+"id":26,
+"question":"Which river flows through Paris?",
+"options":["Danube","Thames","Seine","Rhine"],
+"answer":"Seine"
+},
+{
+"id":27,
+"question":"Which country has the longest coastline in the world?",
+"options":["Russia","Canada","Australia","Norway"],
+"answer":"Canada"
+},
+{
+"id":28,
+"question":"In which country is the Angel Falls, the world's highest waterfall?",
+"options":["Brazil","Guyana","Venezuela","Colombia"],
+"answer":"Venezuela"
+},
+{
+"id":29,
+"question":"What is the capital of Australia?",
+"options":["Sydney","Melbourne","Canberra","Perth"],
+"answer":"Canberra"
+},
+{
+"id":30,
+"question":"Which of these is the world's largest lake by surface area?",
+"options":["Lake Superior","Caspian Sea","Lake Victoria","Lake Baikal"],
+"answer":"Caspian Sea"
+},
+{
+"id":31,
+"question":"Which is the lowest point on dry land?",
+"options":["Death Valley","Dead Sea shore","Lake Eyre","Danakil Depression"],
+"answer":"Dead Sea shore"
+},
+{
+"id":32,
+"question":"Which canal connects the Atlantic and Pacific Oceans?",
+"options":["Suez Canal","Panama Canal","Kiel Canal","Corinth Canal"],
+"answer":"Panama Canal"
+},
+{
+"id":33,
+"question":"What is the capital of Canada?",
+"options":["Toronto","Montreal","Vancouver","Ottawa"],
+"answer":"Ottawa"
+},
+{
+"id":34,
+"question":"Which country is home to the Serengeti National Park?",
+"options":["Kenya","Tanzania","South Africa","Botswana"],
+"answer":"Tanzania"
+},
+{
+"id":35,
+"question":"Which is the largest country in Africa by land area?",
+"options":["Nigeria","Algeria","Egypt","Sudan"],
+"answer":"Algeria"
+},
+{
+"id":36,
+"question":"Which country is often called the 'Emerald Isle'?",
+"options":["Iceland","Ireland","Greenland","New Zealand"],
+"answer":"Ireland"
+},
+{
+"id":37,
+"question":"What is the capital of Brazil?",
+"options":["Rio de Janeiro","Sao Paulo","Brasilia","Salvador"],
+"answer":"Brasilia"
+},
+{
+"id":38,
+"question":"Which sea lies between United Kingdom and Scandinavia?",
+"options":["Baltic Sea","North Sea","Norwegian Sea","Celtic Sea"],
+"answer":"North Sea"
+},
+{
+"id":39,
+"question":"In which country would you find the Matterhorn?",
+"options":["France","Austria","Switzerland","Italy"],
+"answer":"Switzerland"
+},
+{
+"id":40,
+"question":"What is the capital of South Korea?",
+"options":["Busan","Incheon","Seoul","Daegu"],
+"answer":"Seoul"
+},
+
+{
+"id":41,
+"question":"Which country has the most active volcanoes?",
+"options":["Japan","Iceland","Indonesia","USA"],
+"answer":"Indonesia"
+},
+{
+"id":42,
+"question":"What is the largest island in the world?",
+"options":["Australia","Greenland","New Guinea","Borneo"],
+"answer":"Greenland"
+},
+{
+"id":43,
+"question":"Which European city is built on 118 small islands?",
+"options":["Amsterdam","Venice","Copenhagen","Stockholm"],
+"answer":"Venice"
+},
+{
+"id":44,
+"question":"What is the capital of Italy?",
+"options":["Milan","Florence","Naples","Rome"],
+"answer":"Rome"
+},
+{
+"id":45,
+"question":"Which country has the shape of a boot?",
+"options":["Greece","Portugal","Italy","Vietnam"],
+"answer":"Italy"
+},
+{
+"id":46,
+"question":"Which is the most populous city in the world?",
+"options":["Shanghai","Mumbai","Tokyo","New York"],
+"answer":"Tokyo"
+},
+{
+"id":47,
+"question":"Which country does the Rhine River start in?",
+"options":["Germany","Switzerland","France","Netherlands"],
+"answer":"Switzerland"
+},
+{
+"id":48,
+"question":"What is the capital of Germany?",
+"options":["Munich","Frankfurt","Berlin","Hamburg"],
+"answer":"Berlin"
+},
+{
+"id":49,
+"question":"Which mountain range separates Europe and Asia?",
+"options":["Alps","Himalayas","Ural Mountains","Andes"],
+"answer":"Ural Mountains"
+},
+{
+"id":50,
+"question":"Which country shares the longest border with the USA?",
+"options":["Mexico","Canada","Russia","Cuba"],
+"answer":"Canada"
+},
+
+{
+"id":51,
+"question":"What is the capital of Russia?",
+"options":["Saint Petersburg","Moscow","Novosibirsk","Kazan"],
+"answer":"Moscow"
+},
+{
+"id":52,
+"question":"Which is the largest state in the USA by land area?",
+"options":["Texas","California","Alaska","Montana"],
+"answer":"Alaska"
+},
+{
+"id":53,
+"question":"Which river flows through London?",
+"options":["Avon","Trent","Severn","Thames"],
+"answer":"Thames"
+},
+{
+"id":54,
+"question":"What is the capital of Egypt?",
+"options":["Alexandria","Luxor","Cairo","Giza"],
+"answer":"Cairo"
+},
+{
+"id":55,
+"question":"Which is the only country that is also a continent?",
+"options":["Greenland","Antarctica","Australia","Iceland"],
+"answer":"Australia"
+},
+{
+"id":56,
+"question":"Which country has three official capitals?",
+"options":["South Africa","Nigeria","Bolivia","Chile"],
+"answer":"South Africa"
+},
+{
+"id":57,
+"question":"What is the capital of Mexico?",
+"options":["Cancun","Guadalajara","Mexico City","Monterrey"],
+"answer":"Mexico City"
+},
+{
+"id":58,
+"question":"Which African country was formerly known as Abyssinia?",
+"options":["Sudan","Ethiopia","Kenya","Somalia"],
+"answer":"Ethiopia"
+},
+{
+"id":59,
+"question":"Which desert covers much of Northern Africa?",
+"options":["Kalahari","Sahara","Namib","Libyan"],
+"answer":"Sahara"
+},
+{
+"id":60,
+"question":"What is the capital of Spain?",
+"options":["Barcelona","Seville","Madrid","Valencia"],
+"answer":"Madrid"
+},
+
+{
+"id":61,
+"question":"Which country is the world's leading producer of coffee?",
+"options":["Vietnam","Colombia","Ethiopia","Brazil"],
+"answer":"Brazil"
+},
+{
+"id":62,
+"question":"Which is the smallest continent?",
+"options":["Europe","Antarctica","Australia","South America"],
+"answer":"Australia"
+},
+{
+"id":63,
+"question":"What is the capital of Thailand?",
+"options":["Phuket","Chiang Mai","Bangkok","Pattaya"],
+"answer":"Bangkok"
+},
+{
+"id":64,
+"question":"In which country is the world's tallest building, the Burj Khalifa?",
+"options":["Saudi Arabia","Qatar","UAE","Kuwait"],
+"answer":"UAE"
+},
+{
+"id":65,
+"question":"Which country is the Taj Mahal located in?",
+"options":["Pakistan","India","Bangladesh","Iran"],
+"answer":"India"
+},
+{
+"id":66,
+"question":"What is the capital of Saudi Arabia?",
+"options":["Jeddah","Mecca","Riyadh","Medina"],
+"answer":"Riyadh"
+},
+{
+"id":67,
+"question":"Which country is known as the Land of a Thousand Lakes?",
+"options":["Norway","Finland","Canada","Sweden"],
+"answer":"Finland"
+},
+{
+"id":68,
+"question":"Which sea is the saltiest on Earth?",
+"options":["Red Sea","Dead Sea","Mediterranean Sea","Caspian Sea"],
+"answer":"Dead Sea"
+},
+{
+"id":69,
+"question":"What is the capital of Turkey?",
+"options":["Istanbul","Antalya","Ankara","Izmir"],
+"answer":"Ankara"
+},
+{
+"id":70,
+"question":"Which is the largest country in South America?",
+"options":["Argentina","Colombia","Peru","Brazil"],
+"answer":"Brazil"
+},
+
+{
+"id":71,
+"question":"Which US city is known as the 'Big Apple'?",
+"options":["Los Angeles","Chicago","New York City","Miami"],
+"answer":"New York City"
+},
+{
+"id":72,
+"question":"What is the capital of Argentina?",
+"options":["Cordoba","Rosario","Buenos Aires","Mendoza"],
+"answer":"Buenos Aires"
+},
+{
+"id":73,
+"question":"Which country is the Machu Picchu located in?",
+"options":["Chile","Bolivia","Peru","Ecuador"],
+"answer":"Peru"
+},
+{
+"id":74,
+"question":"What is the capital of Portugal?",
+"options":["Porto","Lisbon","Faro","Braga"],
+"answer":"Lisbon"
+},
+{
+"id":75,
+"question":"Which is the world's largest coral reef system?",
+"options":["Belize Barrier Reef","Great Barrier Reef","New Caledonia Barrier Reef","Red Sea Coral Reef"],
+"answer":"Great Barrier Reef"
+},
+{
+"id":76,
+"question":"What is the capital of Greece?",
+"options":["Thessaloniki","Patras","Heraklion","Athens"],
+"answer":"Athens"
+},
+{
+"id":77,
+"question":"Which country is the source of the Nile River?",
+"options":["Egypt","Ethiopia","Uganda","Sudan"],
+"answer":"Uganda"
+},
+{
+"id":78,
+"question":"Which is the highest waterfall in Africa?",
+"options":["Victoria Falls","Tugela Falls","Blue Nile Falls","Ouzoud Falls"],
+"answer":"Tugela Falls"
+},
+{
+"id":79,
+"question":"What is the capital of Pakistan?",
+"options":["Karachi","Lahore","Islamabad","Faisalabad"],
+"answer":"Islamabad"
+},
+{
+"id":80,
+"question":"Which is the largest island in the Mediterranean Sea?",
+"options":["Sardinia","Cyprus","Sicily","Crete"],
+"answer":"Sicily"
+},
+
+{
+"id":81,
+"question":"Which country is known as the 'Low Countries' along with Belgium?",
+"options":["Denmark","Netherlands","Luxembourg","Germany"],
+"answer":"Netherlands"
+},
+{
+"id":82,
+"question":"What is the capital of Indonesia?",
+"options":["Bali","Surabaya","Jakarta","Bandung"],
+"answer":"Jakarta"
+},
+{
+"id":83,
+"question":"Which is the longest mountain range in the world?",
+"options":["Himalayas","Rockies","Andes","Alps"],
+"answer":"Andes"
+},
+{
+"id":84,
+"question":"What is the capital of Sweden?",
+"options":["Gothenburg","Malmo","Stockholm","Uppsala"],
+"answer":"Stockholm"
+},
+{
+"id":85,
+"question":"Which country has the most time zones?",
+"options":["Russia","USA","France","China"],
+"answer":"France"
+},
+{
+"id":86,
+"question":"What is the capital of Switzerland?",
+"options":["Zurich","Geneva","Bern","Basel"],
+"answer":"Bern"
+},
+{
+"id":87,
+"question":"Which is the only continent with no active volcanoes?",
+"options":["Europe","Australia","Africa","Antarctica"],
+"answer":"Australia"
+},
+{
+"id":88,
+"question":"What is the capital of Norway?",
+"options":["Bergen","Trondheim","Oslo","Stavanger"],
+"answer":"Oslo"
+},
+{
+"id":89,
+"question":"Which sea separates Europe from Africa?",
+"options":["Red Sea","Mediterranean Sea","Black Sea","Caspian Sea"],
+"answer":"Mediterranean Sea"
+},
+{
+"id":90,
+"question":"What is the capital of Iran?",
+"options":["Shiraz","Isfahan","Tehran","Tabriz"],
+"answer":"Tehran"
+},
+
+{
+"id":91,
+"question":"Which is the largest lake in Africa?",
+"options":["Lake Tanganyika","Lake Malawi","Lake Victoria","Lake Chad"],
+"answer":"Lake Victoria"
+},
+{
+"id":92,
+"question":"What is the capital of New Zealand?",
+"options":["Auckland","Christchurch","Wellington","Hamilton"],
+"answer":"Wellington"
+},
+{
+"id":93,
+"question":"Which is the most widely spoken language in South America?",
+"options":["English","Spanish","Portuguese","French"],
+"answer":"Spanish"
+},
+{
+"id":94,
+"question":"What is the capital of Vietnam?",
+"options":["Ho Chi Minh City","Da Nang","Hanoi","Haiphong"],
+"answer":"Hanoi"
+},
+{
+"id":95,
+"question":"Which line divides the Earth into Northern and Southern Hemispheres?",
+"options":["Prime Meridian","Equator","Tropic of Cancer","Tropic of Capricorn"],
+"answer":"Equator"
+},
+{
+"id":96,
+"question":"What is the capital of South Africa?",
+"options":["Johannesburg","Durban","Pretoria","Cape Town"],
+"answer":"Pretoria"
+},
+{
+"id":97,
+"question":"Which country is the world's largest producer of gold?",
+"options":["South Africa","China","Australia","Russia"],
+"answer":"China"
+},
+{
+"id":98,
+"question":"What is the capital of Ireland?",
+"options":["Cork","Galway","Dublin","Limerick"],
+"answer":"Dublin"
+},
+{
+"id":99,
+"question":"Which is the most earthquake-prone country in the world?",
+"options":["USA","Japan","China","Italy"],
+"answer":"Japan"
+},
+{
+"id":100,
+"question":"What is the capital of Malaysia?",
+"options":["Penang","Johor Bahru","Kuala Lumpur","Malacca"],
+"answer":"Kuala Lumpur"
+},
+
+{
+"id":101,
+"question":"Which is the highest plateau in the world?",
+"options":["Deccan Plateau","Tibetan Plateau","Altiplano","Iranian Plateau"],
+"answer":"Tibetan Plateau"
+},
+{
+"id":102,
+"question":"Which river flows through Cairo?",
+"options":["Nile","Tigris","Euphrates","Jordan"],
+"answer":"Nile"
+},
+{
+"id":103,
+"question":"Which country has the most deserts?",
+"options":["Australia","China","Saudi Arabia","Mongolia"],
+"answer":"Australia"
+},
+{
+"id":104,
+"question":"Which is the southernmost continent?",
+"options":["South America","Africa","Australia","Antarctica"],
+"answer":"Antarctica"
+},
+{
+"id":105,
+"question":"Which strait separates Asia and North America?",
+"options":["Bering Strait","Malacca Strait","Hormuz Strait","Gibraltar Strait"],
+"answer":"Bering Strait"
+},
+{
+"id":106,
+"question":"Which is the largest peninsula in the world?",
+"options":["Arabian Peninsula","Indian Peninsula","Scandinavian Peninsula","Iberian Peninsula"],
+"answer":"Arabian Peninsula"
+},
+{
+"id":107,
+"question":"Which country is both in Europe and Asia?",
+"options":["Spain","Turkey","Germany","Poland"],
+"answer":"Turkey"
+},
+{
+"id":108,
+"question":"Which is the driest desert in the world?",
+"options":["Sahara","Atacama","Gobi","Namib"],
+"answer":"Atacama"
+},
+{
+"id":109,
+"question":"Which river is known as the Yellow River?",
+"options":["Yangtze","Huang He","Mekong","Amur"],
+"answer":"Huang He"
+},
+{
+"id":110,
+"question":"Which is the largest bay in the world?",
+"options":["Bay of Bengal","Hudson Bay","Bay of Biscay","Gulf of Mexico"],
+"answer":"Bay of Bengal"
+},
+{
+"id": 111,
+"question": "Which specific line of longitude marks the point where the calendar day officially changes?",
+"options": ["Prime Meridian", "Equator", "International Date Line", "Tropic of Capricorn"],
+"answer": "International Date Line"
+},
+{
+"id":112,
+"question":"Which is the largest archipelago in the world?",
+"options":["Philippines","Japan","Indonesia","Maldives"],
+"answer":"Indonesia"
+},
+{
+"id":113,
+"question":"Which country is Mount Fuji located in?",
+"options":["China","South Korea","Japan","Thailand"],
+"answer":"Japan"
+},
+{
+"id":114,
+"question":"Which is the deepest lake in the world?",
+"options":["Lake Tanganyika","Lake Superior","Lake Baikal","Lake Victoria"],
+"answer":"Lake Baikal"
+},
+{
+"id":115,
+"question":"Which country is the Amazon rainforest mainly in?",
+"options":["Colombia","Brazil","Peru","Bolivia"],
+"answer":"Brazil"
+},
+{
+"id":116,
+"question":"Which country has the longest coastline in Africa?",
+"options":["Somalia","South Africa","Madagascar","Egypt"],
+"answer":"Somalia"
+},
+{
+"id":117,
+"question":"Which country has the largest population in Europe?",
+"options":["Germany","France","UK","Italy"],
+"answer":"Germany"
+},
+{
+"id":118,
+"question":"Which desert is located in Mongolia and China?",
+"options":["Gobi","Taklamakan","Karakum","Kyzylkum"],
+"answer":"Gobi"
+},
+{
+"id":119,
+"question":"Which is the largest gulf in the world?",
+"options":["Gulf of Mexico","Persian Gulf","Gulf of Guinea","Gulf of Alaska"],
+"answer":"Gulf of Mexico"
+},
+{
+"id":120,
+"question":"Which country is Greenland part of?",
+"options":["Canada","Norway","Denmark","Iceland"],
+"answer":"Denmark"
+},
+{
+"id":121,
+"question":"Which is the highest waterfall in the world?",
+"options":["Niagara Falls","Angel Falls","Victoria Falls","Iguazu Falls"],
+"answer":"Angel Falls"
+},
+{
+"id":122,
+"question":"Which continent has the most countries?",
+"options":["Asia","Europe","Africa","South America"],
+"answer":"Africa"
+},
+{
+"id":123,
+"question":"Which is the largest landlocked country?",
+"options":["Kazakhstan","Mongolia","Chad","Niger"],
+"answer":"Kazakhstan"
+},
+{
+"id":124,
+"question":"Which river flows through Baghdad?",
+"options":["Tigris","Euphrates","Jordan","Indus"],
+"answer":"Tigris"
+},
+{
+"id":125,
+"question":"Which mountain range is Mount Everest part of?",
+"options":["Andes","Alps","Himalayas","Rocky"],
+"answer":"Himalayas"
+}
+]

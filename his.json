@@ -1,0 +1,876 @@
+[
+  {
+    "id": 1,
+    "question": "Who was the first president of the USA (1789–1797 CE)?",
+    "options": ["Thomas Jefferson", "John Adams", "George Washington", "Benjamin Franklin"],
+    "answer": "George Washington"
+  },
+
+  {
+    "id": 2,
+    "question": "In what year did India gain independence from British rule?",
+    "options": ["1942", "1945", "1947", "1950"],
+    "answer": "1947"
+  },
+
+  {
+    "id": 3,
+    "question": "In which year did World War I begin?",
+    "options": ["1912", "1914", "1916", "1918"],
+    "answer": "1914"
+  },
+
+  {
+    "id": 4,
+    "question": "Who became the first Emperor of Rome in 27 BCE?",
+    "options": ["Julius Caesar", "Augustus", "Nero", "Caligula"],
+    "answer": "Augustus"
+  },
+
+  {
+    "id": 5,
+    "question": "The French Revolution began in which year?",
+    "options": ["1785", "1789", "1792", "1799"],
+    "answer": "1789"
+  },
+
+  {
+    "id": 6,
+    "question": "Which explorer reached the Americas in 1492 CE?",
+    "options": ["Columbus", "Magellan", "Cook", "Vespucci"],
+    "answer": "Columbus"
+  },
+
+  {
+    "id": 7,
+    "question": "Who was the leader of Nazi Germany during World War II?",
+    "options": ["Hitler", "Mussolini", "Stalin", "Goebbels"],
+    "answer": "Hitler"
+  },
+
+  {
+    "id": 8,
+    "question": "In which year did World War II end?",
+    "options": ["1943", "1944", "1945", "1946"],
+    "answer": "1945"
+  },
+
+  {
+    "id": 9,
+    "question": "Who served as the first Prime Minister of independent India (1947 CE)?",
+    "options": ["Gandhi", "Nehru", "Patel", "Rajendra Prasad"],
+    "answer": "Nehru"
+  },
+
+  {
+    "id": 10,
+    "question": "The Magna Carta was signed in which year?",
+    "options": ["1066", "1215", "1415", "1492"],
+    "answer": "1215"
+  },
+
+  {
+    "id": 11,
+    "question": "Who was the first human to travel into outer space in 1961 CE?",
+    "options": ["Armstrong", "Gagarin", "Aldrin", "Glenn"],
+    "answer": "Gagarin"
+  },
+
+  {
+    "id": 12,
+    "question": "In what year did the Berlin Wall fall?",
+    "options": ["1987", "1989", "1991", "1993"],
+    "answer": "1989"
+  },
+
+  {
+    "id": 13,
+    "question": "Which empire built the citadel of Machu Picchu?",
+    "options": ["Aztec", "Inca", "Maya", "Olmec"],
+    "answer": "Inca"
+  },
+
+  {
+    "id": 14,
+    "question": "Alexander the Great (356–323 BCE) was the king of which ancient Greek kingdom?",
+    "options": ["Athens", "Sparta", "Macedon", "Thebes"],
+    "answer": "Macedon"
+  },
+
+  {
+    "id": 15,
+    "question": "In which country did the Industrial Revolution begin during the 18th century CE?",
+    "options": ["France", "Germany", "Britain", "USA"],
+    "answer": "Britain"
+  },
+
+  {
+    "id": 16,
+    "question": "Which statesman was primarily responsible for the unification of Germany in 1871 CE?",
+    "options": ["Wilhelm", "Bismarck", "Frederick", "Hindenburg"],
+    "answer": "Bismarck"
+  },
+
+  {
+    "id": 17,
+    "question": "Napoleon Bonaparte was finally defeated in 1815 CE at which battle?",
+    "options": ["Austerlitz", "Leipzig", "Waterloo", "Trafalgar"],
+    "answer": "Waterloo"
+  },
+
+  {
+    "id": 18,
+    "question": "Who was the last Tsar of Russia, reigning until the 1917 CE Revolution?",
+    "options": ["Nicholas I", "Nicholas II", "Alexander II", "Peter"],
+    "answer": "Nicholas II"
+  },
+
+  {
+    "id": 19,
+    "question": "During which period did the American Civil War take place?",
+    "options": ["1857-61", "1861-65", "1865-69", "1870-74"],
+    "answer": "1861-65"
+  },
+
+  {
+    "id": 20,
+    "question": "Joan of Arc, the heroine of the Hundred Years' War, was from which country?",
+    "options": ["France", "Italy", "Spain", "Germany"],
+    "answer": "France"
+  },
+
+  {
+    "id": 21,
+    "question": "The Cold War was a period of tension primarily between the USA and which state?",
+    "options": ["China", "Germany", "USSR", "Japan"],
+    "answer": "USSR"
+  },
+
+  {
+    "id": 22,
+    "question": "The ancient city of Petra was built by which civilization?",
+    "options": ["Romans", "Greeks", "Nabataeans", "Persians"],
+    "answer": "Nabataeans"
+  },
+
+  {
+    "id": 23,
+    "question": "The Opium Wars were fought between the Qing Dynasty of China and which empire?",
+    "options": ["France", "Russia", "Britain", "USA"],
+    "answer": "Britain"
+  },
+
+  {
+    "id": 24,
+    "question": "Who was the co-author of The Communist Manifesto (1848 CE) alongside Karl Marx?",
+    "options": ["Lenin", "Engels", "Trotsky", "Stalin"],
+    "answer": "Engels"
+  },
+
+  {
+    "id": 25,
+    "question": "The Aztec Empire was primarily located in which modern-day country?",
+    "options": ["Peru", "Mexico", "Brazil", "Chile"],
+    "answer": "Mexico"
+  },
+
+  {
+    "id": 26,
+    "question": "Who was the first female Prime Minister of the United Kingdom?",
+    "options": ["May", "Thatcher", "Merkel", "Gandhi"],
+    "answer": "Thatcher"
+  },
+
+  {
+    "id": 27,
+    "question": "The Hanging Gardens of Babylon belonged to which ancient civilization?",
+    "options": ["Greek", "Babylonian", "Egyptian", "Persian"],
+    "answer": "Babylonian"
+  },
+
+  {
+    "id": 28,
+    "question": "The Meiji Restoration (1868 CE) occurred in which country?",
+    "options": ["China", "Japan", "Korea", "Thailand"],
+    "answer": "Japan"
+  },
+
+  {
+    "id": 29,
+    "question": "The Mughal Empire (1526–1857 CE) ruled over which major region?",
+    "options": ["India", "Persia", "Arabia", "Turkey"],
+    "answer": "India"
+  },
+
+  {
+    "id": 30,
+    "question": "Nelson Mandela was the first black president of which country?",
+    "options": ["Kenya", "Nigeria", "South Africa", "Ghana"],
+    "answer": "South Africa"
+  },
+
+  {
+    "id": 31,
+    "question": "Where did the Ancient Olympic Games originate in 776 BCE?",
+    "options": ["Italy", "Greece", "Egypt", "Turkey"],
+    "answer": "Greece"
+  },
+
+  {
+    "id": 32,
+    "question": "Who led the Salt March in 1930 CE as an act of civil disobedience?",
+    "options": ["Nehru", "Gandhi", "Patel", "Bose"],
+    "answer": "Gandhi"
+  },
+
+  {
+    "id": 33,
+    "question": "Who founded the Maurya Empire in India around 322 BCE?",
+    "options": ["Ashoka", "Bindusara", "Chandragupta", "Harsha"],
+    "answer": "Chandragupta"
+  },
+
+  {
+    "id": 34,
+    "question": "The ancient city of Constantinople is known today by what name?",
+    "options": ["Athens", "Istanbul", "Ankara", "Izmir"],
+    "answer": "Istanbul"
+  },
+
+  {
+    "id": 35,
+    "question": "Which explorer reached the South Pole first in 1911 CE?",
+    "options": ["Scott", "Amundsen", "Shackleton", "Peary"],
+    "answer": "Amundsen"
+  },
+
+  {
+    "id": 36,
+    "question": "Who is credited with the discovery of Penicillin in 1928 CE?",
+    "options": ["Curie", "Einstein", "Fleming", "Pasteur"],
+    "answer": "Fleming"
+  },
+
+  {
+    "id": 37,
+    "question": "In what year did the first human moon landing (Apollo 11) occur?",
+    "options": ["1967", "1969", "1971", "1973"],
+    "answer": "1969"
+  },
+
+  {
+    "id": 38,
+    "question": "Which empire was famous for its vast road-building across Europe and the Mediterranean?",
+    "options": ["Greek", "Roman", "Persian", "Egyptian"],
+    "answer": "Roman"
+  },
+
+  {
+    "id": 39,
+    "question": "The Great Pyramids of Giza were built by which ancient civilization?",
+    "options": ["Greek", "Egyptian", "Mayan", "Roman"],
+    "answer": "Egyptian"
+  },
+
+  {
+    "id": 40,
+    "question": "Which Chinese dynasty began the construction of the Great Wall around 221 BCE?",
+    "options": ["Han", "Qin", "Tang", "Ming"],
+    "answer": "Qin"
+  },
+
+  {
+    "id": 41,
+    "question": "The Renaissance movement began in which country during the 14th century CE?",
+    "options": ["France", "Italy", "Germany", "Spain"],
+    "answer": "Italy"
+  },
+
+  {
+    "id": 42,
+    "question": "Martin Luther’s actions sparked the rise of which branch of Christianity in 1517 CE?",
+    "options": ["Catholic", "Protestant", "Orthodox", "Islam"],
+    "answer": "Protestant"
+  },
+
+  {
+    "id": 43,
+    "question": "The Spanish Armada was defeated in 1588 CE by the navy of which country?",
+    "options": ["France", "Britain", "Portugal", "Netherlands"],
+    "answer": "Britain"
+  },
+
+  {
+    "id": 44,
+    "question": "In which year did the United States declare its independence?",
+    "options": ["1774", "1776", "1783", "1789"],
+    "answer": "1776"
+  },
+
+  {
+    "id": 45,
+    "question": "Which French King was executed during the French Revolution in 1793 CE?",
+    "options": ["Louis XIV", "Louis XV", "Louis XVI", "Louis XVII"],
+    "answer": "Louis XVI"
+  },
+
+  {
+    "id": 46,
+    "question": "Who was the principal leader of the Bolsheviks during the 1917 CE Russian Revolution?",
+    "options": ["Stalin", "Lenin", "Trotsky", "Kerensky"],
+    "answer": "Lenin"
+  },
+
+  {
+    "id": 47,
+    "question": "In what year was the US naval base at Pearl Harbor attacked?",
+    "options": ["1939", "1941", "1943", "1945"],
+    "answer": "1941"
+  },
+
+  {
+    "id": 48,
+    "question": "In what year did the atomic bombing of Hiroshima and Nagasaki occur?",
+    "options": ["1944", "1945", "1946", "1947"],
+    "answer": "1945"
+  },
+
+  {
+    "id": 49,
+    "question": "In what year was the United Nations (UN) officially founded?",
+    "options": ["1943", "1945", "1947", "1950"],
+    "answer": "1945"
+  },
+
+  {
+    "id": 50,
+    "question": "In which year is the Cold War considered to have ended following the collapse of the USSR?",
+    "options": ["1989", "1991", "1993", "1995"],
+    "answer": "1991"
+  },
+
+  {
+    "id": 51,
+    "question": "What was the primary purpose of the Roman Colosseum (completed in 80 CE)?",
+    "options": ["Temple", "Arena", "Palace", "Market"],
+    "answer": "Arena"
+  },
+
+  {
+    "id": 52,
+    "question": "The Mayan civilization was primarily located in which modern region?",
+    "options": ["Mexico", "Peru", "Chile", "Brazil"],
+    "answer": "Mexico"
+  },
+
+  {
+    "id": 53,
+    "question": "What was the capital city of the Inca Empire?",
+    "options": ["Cusco", "Lima", "Quito", "Machu"],
+    "answer": "Cusco"
+  },
+
+  {
+    "id": 54,
+    "question": "From which region did the Vikings originate during the 8th century CE?",
+    "options": ["Italy", "Scandinavia", "Germany", "Britain"],
+    "answer": "Scandinavia"
+  },
+
+  {
+    "id": 55,
+    "question": "The Feudal system was the dominant social structure in medieval times in which region?",
+    "options": ["Europe", "Asia", "Africa", "America"],
+    "answer": "Europe"
+  },
+
+  {
+    "id": 56,
+    "question": "The Crusades (1096–1291 CE) were primarily a conflict between which two religions?",
+    "options": ["Hindu-Buddhist", "Christian-Muslim", "Jew-Christian", "Muslim-Hindu"],
+    "answer": "Christian-Muslim"
+  },
+
+  {
+    "id": 57,
+    "question": "What was the capital city of the Ottoman Empire after 1453 CE?",
+    "options": ["Ankara", "Istanbul", "Baghdad", "Damascus"],
+    "answer": "Istanbul"
+  },
+
+  {
+    "id": 58,
+    "question": "The Safavid Empire (1501–1736 CE) was centered in which modern-day country?",
+    "options": ["Iran", "Turkey", "India", "Arabia"],
+    "answer": "Iran"
+  },
+
+  {
+    "id": 59,
+    "question": "Who was the founder of the Mongol Empire in 1206 CE?",
+    "options": ["Kublai", "Genghis", "Batu", "Timur"],
+    "answer": "Genghis"
+  },
+
+  {
+    "id": 60,
+    "question": "Who founded the Yuan Dynasty in China (1271 CE)?",
+    "options": ["Genghis", "Kublai", "Qin", "Han"],
+    "answer": "Kublai"
+  },
+
+  {
+    "id": 61,
+    "question": "The Tokugawa Shogunate (1603–1867 CE) ruled in which country?",
+    "options": ["China", "Japan", "Korea", "Vietnam"],
+    "answer": "Japan"
+  },
+
+  {
+    "id": 62,
+    "question": "To which social class did the Samurai belong in feudal Japan?",
+    "options": ["Warrior", "Farmer", "Priest", "Trader"],
+    "answer": "Warrior"
+  },
+
+  {
+    "id": 63,
+    "question": "Which country was the leading industrial power during the mid-1800s CE?",
+    "options": ["Britain", "Spain", "Portugal", "Italy"],
+    "answer": "Britain"
+  },
+
+  {
+    "id": 64,
+    "question": "Who was the US President during the American Civil War (1861–1865 CE)?",
+    "options": ["Lincoln", "Grant", "Jackson", "Wilson"],
+    "answer": "Lincoln"
+  },
+
+  {
+    "id": 65,
+    "question": "The Triple Entente was one of the major alliances during which war?",
+    "options": ["Axis", "Allies", "NATO", "Warsaw"],
+    "answer": "Allies"
+  },
+
+  {
+    "id": 66,
+    "question": "Who was the leader of Fascist Italy during World War II?",
+    "options": ["Mussolini", "Garibaldi", "Cavour", "Victor"],
+    "answer": "Mussolini"
+  },
+
+  {
+    "id": 67,
+    "question": "Which group was the primary victim of the Holocaust during WWII?",
+    "options": ["Jews", "Romans", "Slavs", "Greeks"],
+    "answer": "Jews"
+  },
+
+  {
+    "id": 68,
+    "question": "In which year did the D-Day landings in Normandy occur?",
+    "options": ["1942", "1944", "1945", "1946"],
+    "answer": "1944"
+  },
+
+  {
+    "id": 69,
+    "question": "In what year was the North Atlantic Treaty Organization (NATO) formed?",
+    "options": ["1945", "1947", "1949", "1951"],
+    "answer": "1949"
+  },
+
+  {
+    "id": 70,
+    "question": "The origins of the European Union (EU) are in which continent?",
+    "options": ["Europe", "Asia", "Africa", "America"],
+    "answer": "Europe"
+  },
+
+  {
+    "id": 71,
+    "question": "Who was the founding leader of the People's Republic of China in 1949 CE?",
+    "options": ["Mao", "Chiang", "Sun", "Deng"],
+    "answer": "Mao"
+  },
+
+  {
+    "id": 72,
+    "question": "The Cultural Revolution (1966–1976 CE) took place in which country?",
+    "options": ["China", "Japan", "Korea", "Vietnam"],
+    "answer": "China"
+  },
+
+  {
+    "id": 73,
+    "question": "The USA primarily opposed which force during the Vietnam War?",
+    "options": ["N. Vietnam", "China", "USSR", "Cambodia"],
+    "answer": "N. Vietnam"
+  },
+
+  {
+    "id": 74,
+    "question": "The Korean War resulted in a split at which parallel?",
+    "options": ["38th", "39th", "40th", "41st"],
+    "answer": "38th"
+  },
+
+  {
+    "id": 75,
+    "question": "Who was the leader of the Cuban Revolution in 1959 CE?",
+    "options": ["Castro", "Guevara", "Batista", "Ortega"],
+    "answer": "Castro"
+  },
+
+  {
+    "id": 76,
+    "question": "The Apollo space program was conducted by which country?",
+    "options": ["USA", "USSR", "China", "UK"],
+    "answer": "USA"
+  },
+
+  {
+    "id": 77,
+    "question": "Which state was the primary rival of the USA in the Space Race?",
+    "options": ["China", "Japan", "USSR", "Germany"],
+    "answer": "USSR"
+  },
+
+  {
+    "id": 78,
+    "question": "The early development of the Internet (ARPANET) originated in which country during the 1960s CE?",
+    "options": ["USA", "UK", "Japan", "Germany"],
+    "answer": "USA"
+  },
+
+  {
+    "id": 79,
+    "question": "What was the primary fuel source that powered the first Industrial Revolution?",
+    "options": ["Coal", "Oil", "Gas", "Wood"],
+    "answer": "Coal"
+  },
+
+  {
+    "id": 80,
+    "question": "Who is credited with inventing the movable-type printing press around 1440 CE?",
+    "options": ["Gutenberg", "Da Vinci", "Newton", "Galileo"],
+    "answer": "Gutenberg"
+  },
+
+  {
+    "id": 81,
+    "question": "Who was the primary leader of the Protestant Reformation in 1517 CE?",
+    "options": ["Luther", "Calvin", "Henry", "Zwingli"],
+    "answer": "Luther"
+  },
+
+  {
+    "id": 82,
+    "question": "Which Spanish conquistador led the expedition that caused the fall of the Aztec Empire?",
+    "options": ["Cortes", "Pizarro", "Balboa", "Drake"],
+    "answer": "Cortes"
+  },
+
+  {
+    "id": 83,
+    "question": "Which Spanish conquistador led the conquest of the Inca Empire in the 1530s CE?",
+    "options": ["Cortes", "Pizarro", "Balboa", "Magellan"],
+    "answer": "Pizarro"
+  },
+
+  {
+    "id": 84,
+    "question": "The 'Age of Exploration' generally occurred during which era?",
+    "options": ["1400-1600 CE", "1200-1300 CE", "1600-1700 CE", "1700-1800 CE"],
+    "answer": "1400-1600 CE"
+  },
+
+  {
+    "id": 85,
+    "question": "In which century did the British Empire reach its peak territorial size?",
+    "options": ["17th", "18th", "19th", "20th"],
+    "answer": "19th"
+  },
+
+  {
+    "id": 86,
+    "question": "Who was a key leader of the American Civil Rights Movement (1950s–1960s CE)?",
+    "options": ["King", "Malcolm", "Parks", "X"],
+    "answer": "King"
+  },
+
+  {
+    "id": 87,
+    "question": "In what year was the Constitution of India officially adopted?",
+    "options": ["1947", "1949", "1950", "1952"],
+    "answer": "1950"
+  },
+
+  {
+    "id": 88,
+    "question": "In what year did the Partition of India and Pakistan occur?",
+    "options": ["1945", "1947", "1948", "1950"],
+    "answer": "1947"
+  },
+
+  {
+    "id": 89,
+    "question": "Who famously promoted the philosophy of Ahimsa (Non-Violence) in India's struggle for freedom?",
+    "options": ["Gandhi", "Nehru", "Bose", "Tagore"],
+    "answer": "Gandhi"
+  },
+
+  {
+    "id": 90,
+    "question": "Which major ancient empire was founded by Chandragupta Maurya in India?",
+    "options": ["Maurya", "Mughal", "Gupta", "Chola"],
+    "answer": "Maurya"
+  },
+
+  {
+    "id": 91,
+    "question": "Which religion did Emperor Ashoka the Great convert to after the Kalinga War (c. 261 BCE)?",
+    "options": ["Hindu", "Buddhist", "Jain", "Sikh"],
+    "answer": "Buddhist"
+  },
+
+  {
+    "id": 92,
+    "question": "Who was the founder of Buddhism (c. 5th century BCE)?",
+    "options": ["Buddha", "Mahavira", "Confucius", "Laozi"],
+    "answer": "Buddha"
+  },
+
+  {
+    "id": 93,
+    "question": "In which country did Confucianism originate?",
+    "options": ["China", "Japan", "India", "Korea"],
+    "answer": "China"
+  },
+
+  {
+    "id": 94,
+    "question": "Who is considered the founder of Islam in the 7th century CE?",
+    "options": ["Muhammad", "Ali", "Abu", "Umar"],
+    "answer": "Muhammad"
+  },
+
+  {
+    "id": 95,
+    "question": "In which region did Christianity originate?",
+    "options": ["Middle East", "Europe", "Africa", "Asia"],
+    "answer": "Middle East"
+  },
+
+  {
+    "id": 96,
+    "question": "What was the primary official language of the Roman Empire?",
+    "options": ["Latin", "Greek", "Arabic", "Persian"],
+    "answer": "Latin"
+  },
+
+  {
+    "id": 97,
+    "question": "Which ancient Greek city-state is known as the birthplace of democracy?",
+    "options": ["Athens", "Sparta", "Corinth", "Thebes"],
+    "answer": "Athens"
+  },
+
+  {
+    "id": 98,
+    "question": "Spartan society was primarily focused on which of the following?",
+    "options": ["Military", "Trade", "Religious", "Art"],
+    "answer": "Military"
+  },
+
+  {
+    "id": 99,
+    "question": "Who was the founder of the Achaemenid Persian Empire (c. 550 BCE)?",
+    "options": ["Cyrus", "Darius", "Xerxes", "Cambyses"],
+    "answer": "Cyrus"
+  },
+
+  {
+    "id": 100,
+    "question": "What was the capital of the Byzantine Empire?",
+    "options": ["Rome", "Constantinople", "Athens", "Antioch"],
+    "answer": "Constantinople"
+  },
+
+  {
+    "id": 101,
+    "question": "Charlemagne was crowned Emperor of the Romans in 800 CE, ruling which empire?",
+    "options": ["Frankish", "Roman", "German", "Visigoth"],
+    "answer": "Frankish"
+  },
+
+  {
+    "id": 102,
+    "question": "The Vatican is the spiritual center of which branch of Christianity?",
+    "options": ["Catholic", "Orthodox", "Protestant", "Jewish"],
+    "answer": "Catholic"
+  },
+
+  {
+    "id": 103,
+    "question": "What was the official religion of the Ottoman Empire?",
+    "options": ["Islam", "Christian", "Jewish", "Hindu"],
+    "answer": "Islam"
+  },
+
+  {
+    "id": 104,
+    "question": "The period of the Crusades spanned roughly which years?",
+    "options": ["1096-1291 CE", "900-1000 CE", "1300-1400 CE", "1400-1500 CE"],
+    "answer": "1096-1291 CE"
+  },
+
+  {
+    "id": 105,
+    "question": "In which century did the Black Death pandemic sweep through Europe?",
+    "options": ["13th", "14th", "15th", "16th"],
+    "answer": "14th"
+  },
+
+  {
+    "id": 106,
+    "question": "What is the literal meaning of the term 'Renaissance'?",
+    "options": ["Rebirth", "War", "Empire", "Trade"],
+    "answer": "Rebirth"
+  },
+
+  {
+    "id": 107,
+    "question": "Leonardo da Vinci was a master of many fields, but primarily known for which?",
+    "options": ["Art", "War", "Trade", "Law"],
+    "answer": "Art"
+  },
+
+  {
+    "id": 108,
+    "question": "The Scientific Revolution primarily occurred during which era?",
+    "options": ["1500-1700 CE", "1200-1300 CE", "1700-1800 CE", "1800-1900 CE"],
+    "answer": "1500-1700 CE"
+  },
+
+  {
+    "id": 109,
+    "question": "In which field of science did Isaac Newton make his most famous contributions?",
+    "options": ["Physics", "Biology", "Chemistry", "Math"],
+    "answer": "Physics"
+  },
+
+  {
+    "id": 110,
+    "question": "The Enlightenment was a 17th-18th century CE movement that emphasized what?",
+    "options": ["Reason", "Faith", "War", "Empire"],
+    "answer": "Reason"
+  },
+
+  {
+    "id": 111,
+    "question": "Voltaire was a famous philosopher from which country?",
+    "options": ["France", "Britain", "Germany", "Italy"],
+    "answer": "France"
+  },
+
+  {
+    "id": 112,
+    "question": "In what year was the United States Constitution written?",
+    "options": ["1776", "1787", "1791", "1800"],
+    "answer": "1787"
+  },
+
+  {
+    "id": 113,
+    "question": "Napoleon Bonaparte was of what nationality?",
+    "options": ["French", "Italian", "Spanish", "German"],
+    "answer": "French"
+  },
+
+  {
+    "id": 114,
+    "question": "In what year did the Congress of Vienna conclude?",
+    "options": ["1815", "1810", "1820", "1830"],
+    "answer": "1815"
+  },
+
+  {
+    "id": 115,
+    "question": "In which century did most Latin American countries gain independence?",
+    "options": ["19th", "18th", "17th", "20th"],
+    "answer": "19th"
+  },
+
+  {
+    "id": 116,
+    "question": "The assassination of which figure sparked the beginning of World War I in 1914 CE?",
+    "options": ["Franz Ferdinand", "Wilhelm", "Nicholas", "Edward"],
+    "answer": "Franz Ferdinand"
+  },
+
+  {
+    "id": 117,
+    "question": "In what year was the League of Nations formed?",
+    "options": ["1919", "1921", "1923", "1925"],
+    "answer": "1919"
+  },
+
+  {
+    "id": 118,
+    "question": "In what year did the Great Depression begin with the stock market crash?",
+    "options": ["1929", "1927", "1931", "1933"],
+    "answer": "1929"
+  },
+
+  {
+    "id": 119,
+    "question": "In which year did World War II officially begin in Europe?",
+    "options": ["1937", "1939", "1941", "1942"],
+    "answer": "1939"
+  },
+
+  {
+    "id": 120,
+    "question": "Where is the headquarters of the United Nations located?",
+    "options": ["NYC", "Geneva", "Paris", "London"],
+    "answer": "NYC"
+  },
+
+  {
+    "id": 121,
+    "question": "Which city was divided by a famous wall during the Cold War?",
+    "options": ["Berlin", "Moscow", "Prague", "Vienna"],
+    "answer": "Berlin"
+  },
+
+  {
+    "id": 122,
+    "question": "What is the official currency of the Eurozone (EU)?",
+    "options": ["Euro", "Dollar", "Pound", "Mark"],
+    "answer": "Euro"
+  },
+
+  {
+    "id": 123,
+    "question": "In what year was the People's Republic of China founded?",
+    "options": ["1949", "1945", "1950", "1952"],
+    "answer": "1949"
+  },
+
+  {
+    "id": 124,
+    "question": "In what year did India officially become a Republic?",
+    "options": ["1950", "1947", "1949", "1952"],
+    "answer": "1950"
+  },
+
+  {
+    "id": 125,
+    "question": "Which country successfully executed the first crewed Moon landing in 1969 CE?",
+    "options": ["USA", "USSR", "China", "UK"],
+    "answer": "USA"
+  }
+]
