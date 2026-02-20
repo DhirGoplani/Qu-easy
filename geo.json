@@ -756,5 +756,35 @@
 "question":"Which mountain range is Mount Everest part of?",
 "options":["Andes","Alps","Himalayas","Rocky"],
 "answer":"Himalayas"
+},
+{
+"id":126,
+"question":"Which of the following is a doubly landlocked country?",
+"options":["Uzbekistan","Kazakhstan","Turkmenistan","Kyrgyzstan"],
+"answer":"Uzbekistan"
+},
+{
+"id":127,
+"question":"Which of the following countries does NOT touch the Indian Ocean?",
+"options":["Indonesia","Malaysia","Philippines","Thailand"],
+"answer":"Philippines"
+},
+{
+"id":128,
+"question":"Which country lies on both the Equator and the Prime Meridian?",
+"options":["Gabon","Brazil","Indonesia","Ecuador"],
+"answer":"Gabon"
+},
+{
+"id":129,
+"question":"Which is the largest country entirely in the Southern Hemisphere?",
+"options":["Australia","Argentina","South Africa","Brazil"],
+"answer":"Australia"
+},
+{
+"id":130,
+"question":"Which country has territory in all four hemispheres?",
+"options":["USA","UK","France","Russia"],
+"answer":"France"
 }
 ]

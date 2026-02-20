@@ -43,6 +43,7 @@ function showQuestion(){
     };
     optDiv.appendChild(btn);
   });
+  document.getElementById("nextBtn").innerText = "Check Answer";
 }
 
 function restartQuiz(){
@@ -57,30 +58,32 @@ function restartQuiz(){
   showQuestion();
 }
 
-
-document.getElementById("nextBtn").onclick = () => {
-  if(!selected) return alert("Select an option");
+const nextBtn = document.getElementById("nextBtn");
+nextBtn.onclick = () => {
   let q = quizQuestions[current];
   let buttons = document.querySelectorAll(".option");
-  if(!answered){
+  if (!answered) {
+    if (!selected) return alert("Select an option");
     answered = true;
     buttons.forEach(btn => {
-      if(btn.innerText === q.answer) {
+      if (btn.innerText === q.answer) {
         btn.classList.add("correct");
       }
-      if(btn.innerText === selected && selected !== q.answer) {
+      if (btn.innerText === selected && selected !== q.answer) {
         btn.classList.add("wrong");
       }
     });
-    if(selected === q.answer)score++;
+    if(selected === q.answer) score++;
+    nextBtn.innerText = "Next";
     return;
   }
   current++;
-
-  if (current >= quizQuestions.length) {
+  if(current >= quizQuestions.length) {
     showResult();
-  } else {
+  }
+  else{
     showQuestion();
+    nextBtn.innerText = "Check Answer";
   }
 };
 
@@ -98,4 +101,3 @@ function showResult(){
     `Your Score: ${score} / ${quizQuestions.length}`;
   document.getElementById("resultBtns").style.display = "block";
 }
-

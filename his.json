@@ -359,8 +359,8 @@
   {
     "id": 52,
     "question": "The Mayan civilization was primarily located in which modern region?",
-    "options": ["Mexico", "Peru", "Chile", "Brazil"],
-    "answer": "Mexico"
+    "options": ["Mesoamerica", "Andes", "Amazon", "Caribbean"],
+    "answer": "Mesoamerica"
   },
 
   {
@@ -450,8 +450,8 @@
   {
     "id": 65,
     "question": "The Triple Entente was one of the major alliances during which war?",
-    "options": ["Axis", "Allies", "NATO", "Warsaw"],
-    "answer": "Allies"
+    "options": ["World War I", "World War II", "Cold War", "Napoleonic Wars"],
+    "answer": "World War I"
   },
 
   {
@@ -596,9 +596,9 @@
 
   {
     "id": 86,
-    "question": "Who was a key leader of the American Civil Rights Movement (1950s–1960s CE)?",
-    "options": ["King", "Malcolm", "Parks", "X"],
-    "answer": "King"
+    "question": "At which battle was Napoleon Bonaparte finally defeated in 1815 CE?",
+    "options": ["Austerlitz", "Leipzig", "Waterloo", "Trafalgar"],
+    "answer": "Waterloo"
   },
 
   {
@@ -872,5 +872,40 @@
     "question": "Which country successfully executed the first crewed Moon landing in 1969 CE?",
     "options": ["USA", "USSR", "China", "UK"],
     "answer": "USA"
+  },
+
+  {
+    "id": 126,
+    "question": "Which was the first country to adopt Christianity as a state religion?",
+    "options": ["Jordan", "Armenia", "Greece", "Lebanon"],
+    "answer": "Armenia"
+  },
+  
+  {
+    "id": 127,
+    "question": "Which was the largest contiguous land empire in world history?",
+    "options": ["British", "Mongol", "Russian", "Qing"],
+    "answer": "Mongol"
+  },
+
+  {
+    "id": 128,
+    "question": "Which country in Africa was never colonized by Britain?",
+    "options": ["Madagascar", "Kenya", "South Africa", "Botswana"],
+    "answer": "Madagascar"
+  },
+
+  {
+    "id": 129,
+    "question": "Which is considered to be the oldest known civilization in the world?",
+    "options": ["Mesopotamian", "Egyptian", "Indus", "Chinese"],
+    "answer": "Mesopotamian"
+  },
+
+  {
+    "id": 130,
+    "question": "In which year did Alexander the Great defeat the Persian Empire at the Battle of Gaugamela?",
+    "options": ["334 BCE", "331 BCE", "326 BCE", "323 BCE"],
+    "answer": "331 BCE"
   }
 ]
